@@ -55,3 +55,8 @@ Desarrollador de Software, con conocimientos sólidos en desarrollo web, bases d
 ---
 
 📅 Última actualización: 11 de mayo de 2025
+
+---
+
+## 🐍 Snake eating my contributions
+![Snake animation](https://github.com/Dev-Leandr0/Dev-Leandr0/blob/output/github-contribution-grid-snake.svg)
