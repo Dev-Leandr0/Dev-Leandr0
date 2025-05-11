@@ -57,5 +57,7 @@ Desarrollador de Software, con conocimientos sólidos en desarrollo web, bases d
 📅 Última actualización: 11 de mayo de 2025
 
 ---
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+
+## 📈 Evolución de mis contribuciones en GitHub
+
 ![snake gif](https://github.com/Dev-Leandr0/Dev-Leandr0/blob/output/github-snake.svg)
