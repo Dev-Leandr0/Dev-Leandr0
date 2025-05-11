@@ -58,4 +58,4 @@ Desarrollador de Software, con conocimientos sólidos en desarrollo web, bases d
 
 ---
 
-![gif de serpiente](https://github.com/SU_NOMBRE_DE_USUARIO/ SU_NOMBRE_DE_USUARIO /blob/output/github-snake-dark.svg)
+![gif de serpiente](https://github.com/Dev-Leandr0/Dev-Leandr0/blob/output/github-snake-dark.svg)
