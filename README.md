@@ -58,4 +58,4 @@ Desarrollador de Software, con conocimientos sólidos en desarrollo web, bases d
 
 ---
 
-![snake gif](https://github.com/Dev-Leandr0/Dev-Leandr0/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Dev-Leandr0/Dev-Leandr0/blob/output/github-snake.svg)
