@@ -55,3 +55,7 @@ Desarrollador de Software, con conocimientos sólidos en desarrollo web, bases d
 ---
 
 📅 Última actualización: 11 de mayo de 2025
+
+---
+
+![gif de serpiente](https://github.com/SU_NOMBRE_DE_USUARIO/ SU_NOMBRE_DE_USUARIO /blob/output/github-snake-dark.svg)
