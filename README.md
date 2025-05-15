@@ -38,6 +38,7 @@ Desarrollador de Software, con conocimientos sólidos en desarrollo web, bases d
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-E44D26?logo=codeigniter&logoColor=white&style=flat)
 
 ---
 
