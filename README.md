@@ -7,37 +7,35 @@ Desarrollador de Software, con conocimientos sólidos en desarrollo web, bases d
 ## 💼 Tecnologías que manejo
 
 ### 🌐 Frontend
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
-
-### 🖥️ Backend y Lenguajes
-
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+
+### 🖥️ Backend
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat)
+
+### 🧩 Lenguajes de programación
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 
 ### 🛢️ Bases de Datos
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat)
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=flat)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 
-### 🧰 Frameworks y Otros
-
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat)
+### 🧰 Herramientas y entornos
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=white&style=flat)
 
 ---
 
 ## 📚 Tecnologías que estoy aprendiendo
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-E44D26?logo=codeigniter&logoColor=white&style=flat)
 
 ---
