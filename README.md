@@ -76,6 +76,6 @@ Desarrollador de Software con conocimientos sólidos en desarrollo frontend y ba
 ## 📫 Cómo contactarme
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:leandroalegregabriel@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/leandro-alegre-4b8b54294)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-alegre-4b8b54294)
 
 > Si no respondo rápido, seguramente esté regando cultivos o visitando a los Junimos <img src="https://stardewvalleywiki.com/mediawiki/images/b/b2/Animals_Icon.png" height="24" />
