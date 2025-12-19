@@ -63,7 +63,9 @@ Desarrollador de Software con conocimientos sólidos en desarrollo frontend y ba
 
 ## 📊 GitHub Stats
 
-![Streak Stats](https://streak-stats.demolab.com?user=Dev-Leandr0)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dev-Leandr0" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dev-Leandr0" width="32%" />
@@ -77,5 +79,3 @@ Desarrollador de Software con conocimientos sólidos en desarrollo frontend y ba
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/leandro-alegre-4b8b54294)
 
 > Si no respondo rápido, seguramente esté regando cultivos o visitando a los Junimos <img src="https://stardewvalleywiki.com/mediawiki/images/b/b2/Animals_Icon.png" height="24" />
-
----
