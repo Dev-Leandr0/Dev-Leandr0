@@ -69,7 +69,7 @@ Desarrollador de Software con conocimientos sólidos en desarrollo frontend y ba
 
 <p align="center">
   <!-- Lenguajes principales sin barras -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Leandr0&theme=blueberry&hide_progress=true&locale=es" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Leandr0&theme=blueberry&hide_progress=true&exclude=Hack" width="40%" />
   <!-- Tarjeta de repositorio personalizada -->
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Leandr0&repo=redbull-racing-app&theme=blueberry&show_owner=true" width="50%" />
 </p>
