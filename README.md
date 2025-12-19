@@ -63,41 +63,13 @@ Desarrollador de Software con conocimientos sólidos en desarrollo frontend y ba
 
 ## 📊 GitHub Stats
 
-<table width="100%">
-  <tr>
-    <td width="55%" align="center">
-      <img
-        src="https://streak-stats.demolab.com?user=Dev-Leandr0"
-        width="100%"
-      />
-    </td>
-    <td width="40%" align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Leandr0&layout=compact"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
+![Streak Stats](https://streak-stats.demolab.com?user=Dev-Leandr0)
 
-<table width="100%">
-  <tr>
-    <td align="center">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dev-Leandr0"
-        width="90%"
-      />
-    </td>
-    <td align="center">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dev-Leandr0"
-        width="90%"
-      />
-    </td>
-  </tr>
-</table>
-
-<br>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dev-Leandr0" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Leandr0&layout=compact" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dev-Leandr0" width="32%" />
+</p>
 
 ## 📫 Cómo contactarme
 
