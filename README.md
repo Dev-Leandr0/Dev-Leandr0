@@ -5,6 +5,7 @@ Desarrollador de Software con conocimientos sólidos en desarrollo frontend y ba
 ---
 
 ## 🐧 Entorno de Trabajo
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
@@ -28,7 +29,6 @@ Desarrollador de Software con conocimientos sólidos en desarrollo frontend y ba
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 
-
 ### 🛢️ Bases de Datos
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
@@ -37,7 +37,6 @@ Desarrollador de Software con conocimientos sólidos en desarrollo frontend y ba
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-
 
 ### 🧰 Herramientas
 
@@ -66,14 +65,14 @@ Desarrollador de Software con conocimientos sólidos en desarrollo frontend y ba
 <p align="center">
   <!-- Estadísticas generales -->
   <img src="https://github-readme-stats.vercel.app/api?username=Dev-Leandr0&show_icons=true&theme=blueberry&locale=es&show_rank=true&rank_icon=github" />
-  
+</p>
+
+<p align="center">
   <!-- Lenguajes principales sin barras -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Leandr0&theme=blueberry&hide_progress=true&locale=es" width="40%" />
   <!-- Tarjeta de repositorio personalizada -->
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Leandr0&repo=redbull-racing-app&theme=blueberry&show_owner=true" width="50%" />
 </p>
-
-
 
 ## 📫 Cómo contactarme
 
