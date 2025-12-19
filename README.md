@@ -61,17 +61,19 @@ Desarrollador de Software con conocimientos sólidos en desarrollo frontend y ba
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dev-Leandr0" />
+  <!-- Estadísticas generales -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Leandr0&show_icons=true&theme=blueberry&locale=es&show_rank=true&rank_icon=github" />
+  
+  <!-- Lenguajes principales sin barras -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Leandr0&theme=blueberry&hide_progress=true&locale=es" width="40%" />
+  <!-- Tarjeta de repositorio personalizada -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Leandr0&repo=redbull-racing-app&theme=blueberry&show_owner=true" width="50%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dev-Leandr0" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Leandr0&layout=compact" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dev-Leandr0" width="32%" />
-</p>
+
 
 ## 📫 Cómo contactarme
 
