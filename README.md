@@ -62,17 +62,12 @@ Desarrollador de Software con conocimientos sólidos en desarrollo frontend y ba
 
 ## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <!-- Estadísticas generales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Leandr0&show_icons=true&theme=blueberry&locale=es&show_rank=true&rank_icon=github" />
-</p>
+<p align="center"> <img src="./profile/stats.svg" alt="Estadísticas de GitHub de Dev-Leandr0" /> </p>
 
-<p align="center">
-  <!-- Lenguajes principales sin barras -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Leandr0&theme=blueberry&hide_progress=true&exclude=Hack" width="40%" />
-  <!-- Tarjeta de repositorio personalizada -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Leandr0&repo=redbull-racing-app&theme=blueberry&show_owner=true" width="50%" />
-</p>
+<p align="center"> <img src="./profile/top-langs.svg" alt="Lenguajes principales de Dev-Leandr0" width="40%" />
+
+<img src="./profile/redbull-racing-app.svg" alt="Estadísticas del repositorio redbull-racing-app" width="50%" /> </p>
+
 
 ## 📫 Cómo contactarme
 
